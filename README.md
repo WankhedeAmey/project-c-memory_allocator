@@ -28,4 +28,4 @@ Compile using
 gcc -o test test.c memalloc.so -lpthread
 ```
 
-The output of the program will show all the blocks of  memoery beings created in heap.
+The output of the program will show all the blocks of  memory beings created in heap.
