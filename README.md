@@ -1,7 +1,7 @@
 # project-c-memory_allocator
-A simple memory allocator in C
+A memory allocator in C
 
-This repository contains a simple custom memory allocator implemented in C. The memory allocator provides basic functionality for memory allocation and deallocation, similar to the standard malloc, free, calloc, and realloc functions. Additionally, it includes a debugging function print_mem_list to help visualize the memory blocks in use.
+This repository contains a custom memory allocator implemented in C. The memory allocator provides functionality for memory allocation and deallocation, similar to the standard malloc, free, calloc, and realloc functions. Additionally, it includes a debugging function print_mem_list to help visualize the memory blocks in use.
 
 ## Features
 - Implements memory allocation functions: malloc, free, calloc, and realloc.
